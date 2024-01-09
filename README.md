@@ -43,6 +43,9 @@ A web application for uploading and viewing CSV files.
    git clone https://github.com/your-username/csv-file-viewer.git
 
    
-2. cd csv-file-viewer
-3. npm install
-4. npm start
+2. ```bash
+   cd csv-file-viewer
+3. ```bash
+   npm install
+4.  ```bash
+    npm start
