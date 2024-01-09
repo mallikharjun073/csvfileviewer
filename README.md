@@ -44,6 +44,5 @@ A web application for uploading and viewing CSV files.
 
    
 2. cd csv-file-viewer
-2. cd csv-file-viewer
 3. npm install
-4.npm start
+4. npm start
